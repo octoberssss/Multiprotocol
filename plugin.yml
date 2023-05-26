@@ -1,0 +1,9 @@
+---
+name: MultiVersion
+version: 0.0.1
+main: MultiVersion\Main
+authors:
+  - CortexPE
+  - ItsZodiaX
+api: 4.0.0
+...
